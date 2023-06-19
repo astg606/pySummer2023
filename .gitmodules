@@ -1,0 +1,3 @@
+[submodule "py_materials"]
+	path = py_materials
+	url = https://github.com/astg606/py_materials.git
